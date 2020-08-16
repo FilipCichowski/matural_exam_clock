@@ -2,9 +2,4 @@ This repo contain KiCad project with custom display library and Arduino code. Ma
 
 Present version countdown seconds instead of hours. You can change countodwn time by replacing "period" value with 3600000. Version with ULN2803 is not tested.
 
-Feel free to use this project under CC license.
-
-
-Best regards,
-Filip Cichowski
-
+Released under CC-BY license. Filip Cichowski © 2020.
